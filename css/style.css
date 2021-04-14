@@ -45,3 +45,42 @@
     line-height: 17px;
     padding-top: 5px;
 }
+
+/* card-content-body */
+.card-content-body{
+    padding: 0;
+}
+
+
+
+/* Setup Account Content */
+.setup-account-content{
+    border-bottom: none;
+}
+
+.setup-account-content a{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    color: #626D74;
+    border: none !important;
+}
+
+.setup-account-content .nav-link.active{
+    background: #F5F7FA !important;
+
+}
+
+.setup-account-content-body{
+    background: #F5F7FA;
+}
+
+.basic-info-form{
+    padding: 45px 229px 458px 114px;
+}
+
+/* .basic-info-form label,
+.basic-info-form .form-group div{
+    padding: 0;
+} */
